@@ -14,11 +14,10 @@ A vanilla-friendly **Minecraft** mod for **NeoForge** that introduces an alterna
   * Obtain *dust* by crushing *Coal* or *Charcoal* using a *Pickaxe*.
 * **Gunpowder Crafting**
   * Combine **Flint Dust**, **Coal Dust**, and *Redstone Dust* to craft *Gunpowder*.
-  * Eliminates sole reliance on Creeper hunting or mob farms for early-game explosives and fireworks.
 
 ---
 
-## 💡 Why Fried Egg?
+## 💡 Why X Craft Gunpowder?
 
 * **Alternative Progression**: Provides a peaceful and tactical way to farm *gunpowder* without requiring aggressive mob hunting.
 * **Intuitive Mechanics**: Uses immersive interactions (washing gravel, crushing resources with tools) that fit naturally into vanilla gameplay.
