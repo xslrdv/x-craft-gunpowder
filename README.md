@@ -19,9 +19,10 @@ A vanilla-friendly **Minecraft** mod for **NeoForge** that introduces an alterna
 
 ## 💡 Why X Craft Gunpowder?
 
+* **Vanilla-Friendly & Balanced**: Carefully tuned recipes that respect survival progression.
+* **Fair Resource Trade-off**: Uses tool durability and multi-step crafting, making *gunpowder* production earned, not given.
 * **Alternative Progression**: Provides a peaceful and tactical way to farm *gunpowder* without requiring aggressive mob hunting.
-* **Intuitive Mechanics**: Uses immersive interactions (washing gravel, crushing resources with tools) that fit naturally into vanilla gameplay.
-* **Vanilla-Friendly**: Vanilla-Friendly: Keeps recipe balance fair without adding unneeded bloat or complex machinery.
+* **Intuitive Mechanics**: Uses immersive interactions (*washing gravel*, *crushing resources* with tools) that fit naturally into vanilla gameplay.
 
 ---
 
