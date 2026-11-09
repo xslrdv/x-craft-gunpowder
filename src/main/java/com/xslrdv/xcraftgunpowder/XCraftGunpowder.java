@@ -20,6 +20,7 @@ package com.xslrdv.xcraftgunpowder;
 
 import com.xslrdv.xcraftgunpowder.registry.ModCreativeTabs;
 import com.xslrdv.xcraftgunpowder.registry.ModItems;
+import com.xslrdv.xcraftgunpowder.registry.ModRecipes;
 
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.common.Mod;
@@ -30,7 +31,8 @@ public class XCraftGunpowder {
     public static final String MODID = "xcraftgunpowder";
 
     public XCraftGunpowder(IEventBus modEventBus) {
-        ModItems.ITEMS.register(modEventBus);
+        ModItems.register(modEventBus);
+         ModRecipes.register(modEventBus);
         ModCreativeTabs.register(modEventBus);
     }
 }

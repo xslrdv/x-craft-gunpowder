@@ -10,5 +10,9 @@ public class ModCreativeTabs {
     }
 
     private static void addToTabs(BuildCreativeModeTabContentsEvent event) {
+        if (event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
+            event.accept(ModItems.FLINT_DUST);
+            event.accept(ModItems.COAL_DUST);
+        }
     }
 }
