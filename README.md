@@ -10,10 +10,15 @@ A vanilla-friendly **Minecraft** mod for **NeoForge** that introduces an alterna
   * Extract *Flint* from a *Gravel block* using a *Bucket of Water*.
 * **Flint Dust**
   * Obtain *dust* by crushing *Flint* using a *Pickaxe*.
+* **Flint Dust Block**
+  * Craft a *Flint Dust Block* using 9 **Flint Dust**.
 * **Coal Dust**
   * Obtain *dust* by crushing *Coal* or *Charcoal* using a *Pickaxe*.
+* **Coal Dust Block**
+  * Craft a *Flint Dust Block* using 9 **Flint Dust**.
 * **Gunpowder Crafting**
-  * Combine **Flint Dust**, **Coal Dust**, and *Redstone Dust* to craft *Gunpowder*.
+  * Combine **Flint Dust**, **Coal Dust**, and *Redstone Dust* to craft *Gunpowder* (x3).
+  * Or combine **Flint Dust Block**, **Coal Dust Block**, and *Redstone Block* to craft *Gunpowder* (x27).
 
 ---
 
