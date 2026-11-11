@@ -18,13 +18,12 @@ import net.minecraft.world.item.crafting.RecipeSerializer;
 import net.minecraft.world.level.Level;
 
 public class PickaxeCrushRecipe extends CustomRecipe {
-
-    // flint to flint_dust
+    // Flint to flint_dust
     public static final PickaxeCrushRecipe FLINT = new PickaxeCrushRecipe(
             stack -> stack.is(Items.FLINT),
             () -> ModItems.FLINT_DUST.get());
 
-    // coal or charcoal to coal_dust
+    // Coal or charcoal to coal_dust
     public static final PickaxeCrushRecipe COAL = new PickaxeCrushRecipe(
             stack -> stack.is(Items.COAL) || stack.is(Items.CHARCOAL),
             () -> ModItems.COAL_DUST.get());

@@ -12,7 +12,6 @@ import net.minecraft.world.item.crafting.RecipeSerializer;
 import net.minecraft.world.level.Level;
 
 public class GravelWashRecipe extends CustomRecipe {
-
     public static final GravelWashRecipe INSTANCE = new GravelWashRecipe();
 
     public static final RecipeSerializer<GravelWashRecipe> SERIALIZER =

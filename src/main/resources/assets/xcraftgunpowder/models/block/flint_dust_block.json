@@ -1,0 +1,4 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": { "all": "xcraftgunpowder:block/flint_dust_block" }
+}

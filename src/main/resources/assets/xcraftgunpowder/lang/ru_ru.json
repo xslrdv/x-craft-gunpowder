@@ -1,4 +1,6 @@
 {
   "item.xcraftgunpowder.flint_dust": "Кремневая пыль",
-  "item.xcraftgunpowder.coal_dust": "Угольная пыль"
+  "item.xcraftgunpowder.coal_dust": "Угольная пыль",
+  "block.xcraftgunpowder.flint_dust_block": "Блок кремневой пыли",
+  "block.xcraftgunpowder.coal_dust_block": "Блок угольного порошка"
 }

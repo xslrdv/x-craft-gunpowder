@@ -1,4 +1,6 @@
 {
   "item.xcraftgunpowder.flint_dust": "Flint Dust",
-  "item.xcraftgunpowder.coal_dust": "Coal Dust"
+  "item.xcraftgunpowder.coal_dust": "Coal Dust",
+  "block.xcraftgunpowder.flint_dust_block": "Flint Dust Block",
+  "block.xcraftgunpowder.coal_dust_block": "Coal Dust Block"
 }

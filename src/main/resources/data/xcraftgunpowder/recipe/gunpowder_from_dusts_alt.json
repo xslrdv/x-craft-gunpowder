@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "xcraftgunpowder:flint_dust_block",
+    "xcraftgunpowder:coal_dust_block",
+    "minecraft:redstone_block"
+  ],
+  "result": {
+    "id": "minecraft:gunpowder",
+    "count": 27
+  }
+}
