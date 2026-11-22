@@ -1,6 +1,3 @@
 {
-  "item.xcraftgunpowder.flint_dust": "Кременевий пил",
-  "item.xcraftgunpowder.coal_dust": "Вугільний пил",
-  "block.xcraftgunpowder.flint_dust_block": "Блок кременевого пилу",
-  "block.xcraftgunpowder.coal_dust_block": "Блок вугільного порошку"
+  "item.xcraftgunpowder.raw_gunpowder": "Сирий порох"
 }

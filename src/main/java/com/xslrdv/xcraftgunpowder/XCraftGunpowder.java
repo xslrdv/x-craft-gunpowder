@@ -1,5 +1,5 @@
 /*
- * X Craft Gunpowder - Adds a recipe for Gunpowder using Flint Dust, Coal Dust, and Redstone Dust.
+ * X Craft Gunpowder - Adds an alternative, vanilla-friendly, balanced, and practical way to craft Gunpowder.
  * Copyright (C) 2026 xslrdv
  *
  * This program is free software: you can redistribute it and/or modify
@@ -17,7 +17,6 @@
 
 package com.xslrdv.xcraftgunpowder;
 
-import com.xslrdv.xcraftgunpowder.registry.ModBlocks;
 import com.xslrdv.xcraftgunpowder.registry.ModCreativeTabs;
 import com.xslrdv.xcraftgunpowder.registry.ModItems;
 import com.xslrdv.xcraftgunpowder.registry.ModRecipes;
@@ -31,7 +30,6 @@ public class XCraftGunpowder {
 
     public XCraftGunpowder(IEventBus modEventBus) {
         ModItems.register(modEventBus);
-        ModBlocks.register(modEventBus);
         ModRecipes.register(modEventBus);
         ModCreativeTabs.register(modEventBus);
     }

@@ -1,0 +1,14 @@
+{
+  "type": "xcraftgunpowder:pickaxe_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:flint",
+    "#minecraft:coals",
+    "minecraft:redstone",
+    "#minecraft:pickaxes"
+  ],
+  "result": {
+    "id": "minecraft:gunpowder",
+    "count": 3
+  }
+}

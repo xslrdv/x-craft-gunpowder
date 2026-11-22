@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "xcraftgunpowder:item/coal_dust"
+    "model": "xcraftgunpowder:item/raw_gunpowder"
   }
 }

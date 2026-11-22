@@ -1,0 +1,12 @@
+{
+  "type": "xcraftgunpowder:pickaxe_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:gravel",
+    "#minecraft:shovels"
+  ],
+  "result": {
+    "id": "minecraft:flint",
+    "count": 1
+  }
+}
